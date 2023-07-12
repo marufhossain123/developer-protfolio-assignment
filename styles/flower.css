@@ -1,0 +1,32 @@
+/* common shared style */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    background: #E55473;
+ 
+}
+.btn-primary{
+    border-radius: 8px;
+background: #E55473;
+border:0;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+padding: 20px 43px;
+
+}
+/* nav related styles */
+.nav-title{
+    justify-content: space-between;
+    align-items: center;
+
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
