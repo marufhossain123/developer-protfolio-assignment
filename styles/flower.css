@@ -163,3 +163,25 @@ background: rgba(229, 84, 115, 0.05);
 display: flex;
 margin: 130px;
 }
+.social-media{
+    text-align: center;
+}
+.section-tit{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.section-desc{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 400
+    
+
+}
