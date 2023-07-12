@@ -115,3 +115,14 @@ font-style: normal;
 font-weight: 800;
 margin: 100px;
 }
+/* styles related styles */
+.image-container{
+    display: flex;
+}
+.image{
+    padding: 30px;
+    gap: 24px;
+}
+.image-description{
+
+}
