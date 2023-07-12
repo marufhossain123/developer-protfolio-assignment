@@ -18,10 +18,26 @@ font-weight: 700;
 padding: 20px 43px;
 
 }
-/* nav related styles */
-.nav-title{
+/* nav related styles  */
+.nav{
     justify-content: space-between;
     align-items: center;
+    
+    margin: 20px 200px;
+    display: flex;
+
+}
+.image move{
+    display: flex;
+    justify-content: right;
+    
+}
+.nav-title{
+    
+width: 708px;
+flex-direction: column;
+flex-shrink: 0;
+display: flex;
 
     color: #272727;
 font-family: Lato;
@@ -29,4 +45,24 @@ font-size: 80px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+}
+.nav-pragraph{
+    display: flex;
+width: 634px;
+flex-direction: column;
+flex-shrink: 0;
+}
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+/* header related styles */
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 30px 35px 40px 200px;
+    display: flex;
 }
