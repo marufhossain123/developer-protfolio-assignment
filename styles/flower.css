@@ -18,6 +18,16 @@ font-weight: 700;
 padding: 20px 43px;
 
 }
+.section-description{
+
+
+    font-size: 30px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-style: normal;
+font-weight: 400;
+    
+}
 /* nav related styles  */
 .nav{
     justify-content: space-between;
@@ -41,6 +51,7 @@ padding: 20px 43px;
     display: flex;
 }
 .nav-title{
+    padding: 30px 20px 25px 50px;
     
 width: 708px;
 flex-direction: column;
@@ -87,4 +98,20 @@ header related styles */
 .banner .profile-pic{
  width: 500px; 
  display: flex;  
+}
+/* main section styles */
+.our{
+    width: 1920px;
+height: 4867px;
+}
+/* our section styles */
+.section-title{
+    padding: 100px;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+margin: 100px;
 }
