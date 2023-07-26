@@ -109,6 +109,15 @@ line-height: 30px;
 header related styles */
 .header{
     background-color: aqua;
+    display: flex;
+    
+}
+.full{
+}
+
+.navigation{
+display: flex;
+justify-content: space-between;
 }
 .banner{
  padding: 30px 30px 30px 150px;
@@ -117,7 +126,11 @@ header related styles */
 }
 .banner .profile-pic{
  width: 500px; 
- display: flex;  
+ display: flex;
+   
+}
+.banner-content{
+    display: flex;
 }
 /* main section styles */
 .our{
@@ -162,6 +175,14 @@ height: 428px;
 background: rgba(229, 84, 115, 0.05);
 display: flex;
 margin: 130px;
+gap: 50px;
+}
+.mango{
+    gap: 10px;
+    
+}
+.pink{
+    gap: 10px;
 }
 .social-media{
     text-align: center;
